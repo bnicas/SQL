@@ -1,7 +1,7 @@
 # SQL
 SQL Projects
 🎬 IMDb SQL Queries (movies.db)
-This project contains a collection of SQL queries written to explore and analyze a SQLite database of IMDb movie data. It is part of CS50's Problem Set 7 and demonstrates fundamental skills in relational databases, joins, aggregations, and data filtering.
+This project contains a collection of SQL queries written to explore and analyze a SQLite database of IMDb movie data. Demonstrates fundamental skills in relational databases, joins, aggregations, and data filtering.
 
 📂 Files Included:
 movies.db: SQLite database containing data about movies, people, ratings, and relationships between them.
